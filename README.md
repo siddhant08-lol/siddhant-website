@@ -1,2 +1,2 @@
 # siddhant-website
-it as website made by using html css and javascript about coffee cafe.
+A coffee website made using html css and js in a stylish and interactive website for a cafe or coffee shop.
