@@ -1,2 +1,16 @@
-# siddhant-website
-This Coffee Website is a modern and fully responsive web project built using HTML, CSS, and JavaScript, designed to showcase a stylish and user-friendly café experience. The website features an attractive coffee-themed layout, smooth navigation, interactive elements, and responsive design that works seamlessly across desktop, tablet, and mobile devices. It includes sections such as home, about, menu, and contact, making it perfect for practicing front-end development skills while creating a clean and visually appealing user interface.
+# ☕ Coffee Website
+
+A modern and responsive coffee shop website built to showcase delicious coffee, menu items, and online customer engagement. This project is designed with a clean UI, smooth user experience, and mobile-friendly layout.
+
+
+---
+
+ 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+
+
+
